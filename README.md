@@ -866,3 +866,34 @@ Many thanks to these AI whisperers:
 # License
 
 CC-0
+
+🧠 Awesome ChatGPT Prompts
+
+成为我的赞助商，你的标志将出现在这里和 prompts.chat!
+欢迎来到 “Awesome ChatGPT Prompts” 仓库！这是一个用于 ChatGPT 模型的提示示例集合。
+
+ChatGPT 模型是由 OpenAI 训练的大型语言模型，能够生成类似人类的文本。通过提供它一个提示，它可以生成继续对话或扩展给定提示的响应。
+
+在这个仓库中，你将找到各种可以与 ChatGPT 一起使用的提示。我们鼓励你 添加自己的提示 到列表中，并使用 ChatGPT 生成新的提示。
+
+要开始，只需克隆这个仓库，并使用 README.md 文件中的提示作为 ChatGPT 的输入。你也可以使用这个文件中的提示作为创建自己的提示的灵感。
+
+我们希望你觉得这些提示有用，并享受使用 ChatGPT！
+
+在 GitHub 上查看
+在 Hugging Face 上查看
+⭐️ 新: Awesome ChatGPT Store: 自定义 GPT 的中心
+现在你可以访问 Awesome ChatGPT Store，这是 ChatGPT 生态系统中的一个动态新成员！随着可定制 GPT 模型的引入，我们的商店提供了一系列专业的 ChatGPT GPT，每个都针对特定应用和用例进行了定制。
+
+探索一系列 GPT，从那些针对特定编程语言优化的模型，到为创意写作、技术分析等任务微调的模型。这个仓库不仅仅是一个商店；它是一个由开发人员和爱好者共同驱动的平台，他们可以分享、发现并充分利用 ChatGPT 的多样性。
+
+投身于定制化对话 AI 模型的世界，用尖端技术丰富你的项目。访问 Awesome ChatGPT Store 并开始探索可能性！
+
+下载 ChatGPT 桌面应用: macOS / Windows / Linux
+ℹ️ 注意： 有时，一些提示可能不如预期工作或被 AI 拒绝。请再次尝试，开始一个新线程，或登出并重新登录。如果这些解决方案不起作用，请尝试使用自己的句子重写提示，同时保持指示不变。
+
+想要写有效的提示？
+我编写了一本名为《ChatGPT 提示的艺术：制作清晰有效提示的指南》的免费电子书。
+
+📖 阅读免费电子书
+想要了解如何使用 ChatGPT 提示赚钱？

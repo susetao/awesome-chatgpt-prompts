@@ -2,57 +2,78 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**[Be my sponsor and your logo will be here and prompts.chat!](https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=319423)**
+**[Be my sponsor and your logo will be here and prompts.chat!成为我的赞助商，你的标志将出现在这里和 prompts.chat!](https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=319423)**
 
 ---
-
 Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+欢迎来到 “Awesome ChatGPT Prompts” 仓库！这是一个用于 ChatGPT 模型的提示示例集合。
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+ChatGPT 模型是由 OpenAI 训练的大型语言模型，能够生成类似人类的文本。通过提供它一个提示，它可以生成继续对话或扩展给定提示的响应。
+
 
 In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+在这个仓库中，你将找到各种可以与 ChatGPT 一起使用的提示。我们鼓励你 添加自己的提示 到列表中，并使用 ChatGPT 生成新的提示。
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+要开始，只需克隆这个仓库，并使用 README.md 文件中的提示作为 ChatGPT 的输入。你也可以使用这个文件中的提示作为创建自己的提示的灵感。
 
 We hope you find these prompts useful and have fun using ChatGPT!
+我们希望你觉得这些提示有用，并享受使用 ChatGPT！
 
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
+**[View on GitHub 在 GitHub 上查看](https://github.com/f/awesome-chatgpt-prompts)**
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+**[View on Hugging Face 在 Hugging Face 上查看](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
 
 ---
 
-### ⭐️ NEW: Awesome ChatGPT Store: A Hub for Custom GPTs
+### ⭐️ NEW: Awesome ChatGPT Store: A Hub for Custom GPTs 
+### ⭐️ 新: Awesome ChatGPT Store: 自定义 GPT 的中心
 
 Now you can access [Awesome ChatGPT Store](https://github.com/devisasari/awesome-chatgpt-store), a dynamic new addition to the ChatGPT ecosystem! With the introduction of customizable GPT models, our store provides a curated collection of specialized ChatGPT GPTs, each tailored for unique applications and use cases.
+现在你可以访问 Awesome ChatGPT Store(https://github.com/devisasari/awesome-chatgpt-store)，这是 ChatGPT 生态系统中的一个动态新成员！随着可定制 GPT 模型的引入，我们的商店提供了一系列专业的 ChatGPT GPT，每个都针对特定应用和用例进行了定制。
 
 Explore a wide range of GPTs, from those optimized for specific programming languages, to models fine-tuned for creative writing, technical analysis, and more. This repository is not just a store; it's a community-driven platform where developers and enthusiasts can share, discover, and leverage the full potential of ChatGPT's versatility.
+探索一系列 GPT，从那些针对特定编程语言优化的模型，到为创意写作、技术分析等任务微调的模型。这个仓库不仅仅是一个商店；它是一个由开发人员和爱好者共同驱动的平台，他们可以分享、发现并充分利用 ChatGPT 的多样性。
 
 Dive into the world of customized conversational AI models and enrich your projects with cutting-edge technology. Visit the Awesome ChatGPT Store now at [Awesome ChatGPT Store](https://github.com/devisasari/awesome-chatgpt-store) and start exploring the possibilities!
+投身于定制化对话 AI 模型的世界，用尖端技术丰富你的项目。访问 Awesome ChatGPT Store 并开始探索可能性！
 
 ---
 
 **Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
+下载 ChatGPT 桌面应用**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
+> ℹ️ 注意： 有时，一些提示可能不如预期工作或被 AI 拒绝。请再次尝试，开始一个新线程，或登出并重新登录。如果这些解决方案不起作用，请尝试使用自己的句子重写提示，同时保持指示不变。
 
-### Want to Write Effective Prompts?
+### Want to Write Effective Prompts? 想要写有效的提示？
 
 I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
+我编写了一本名为《ChatGPT 提示的艺术：制作清晰有效提示的指南》的免费电子书。
 
-📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
+📖 **[Read the free e-book 阅读免费电子书](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
 
 ### Want to Learn How to Make Money using ChatGPT Prompts?
+想了解如何通过 ChatGPT 提示赚钱吗？
 
 I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
+我撰写了一本名为《用 ChatGPT 赚钱的策略、技巧和战术》的电子书。
 
-📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
+📖 **[Buy the e-book 购买电子书](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
 
 ### Want to secure your ChatGPT apps?
+想保护你的 ChatGPT 应用吗？Ut
 
 [Utku Şen](https://twitter.com/utkusen) authored an e-book called **"Securing GPT: A Practical Introduction to Attack and Defend ChatGPT Applications"**.
+Utku Şen撰写了一本名为《Securing GPT：ChatGPT 应用程序的攻击与防御实用介绍》的电子书。
 
-📖 **[Buy the e-book](https://utkusen.gumroad.com/l/securing-gpt-attack-defend-chatgpt-applications)**
+📖 **[Buy the e-book 购买电子书](https://utkusen.gumroad.com/l/securing-gpt-attack-defend-chatgpt-applications)**
+
+
+
+
+
 
 ---
 
@@ -83,26 +104,35 @@ The _unofficial_ ChatGPT desktop application provides a convenient way to access
 ---
 
 ### Using prompts.chat
+### 使用 prompts.chat
 
 [prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
+[prompts.chat](https://prompts.chat) 旨在为使用提示提供增强的用户体验。只需几步操作，您就可以轻松地在网站上编辑和复制提示，以满足您的特定需求和偏好。复制按钮将按您编辑的方式精确复制提示。
 
 <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
 ---
 
 ## Dark Mode Implementation
+## 暗黑模式实现
 
 We have implemented a dark mode for this repository to enhance your reading experience. The dark mode is implemented using CSS variables and a toggle button. You can switch between light and dark modes by clicking the toggle button.
+我们为这个仓库实现了暗黑模式，以提升您的阅读体验。暗黑模式通过 CSS 变量和切换按钮实现。您可以通过点击切换按钮在亮色和暗色模式之间切换。
 
 ## GitHub Pages Deployment using GitHub Actions
+## 使用 GitHub Actions 的 GitHub Pages 部署
 
 We have set up a GitHub Actions workflow to automatically publish this repository to GitHub Pages. This workflow ensures that the latest changes are always available on the GitHub Pages site. You can find the workflow configuration in the `.github/workflows/publish.yml` file.
+我们设置了一个 GitHub Actions 工作流程来自动发布这个仓库到 GitHub Pages。这个工作流程确保最新的更改始终在 GitHub Pages 网站上可用。您可以在 .github/workflows/publish.yml 文件中找到工作流程配置。
 
 # Prompts
 
 ## ChatGPT SEO prompts
+## ChatGPT SEO 提示
 Contributed by: [StoryChief AI](https://www.storychief.io/ai-power-mode)
+贡献者：[StoryChief AI](https://www.storychief.io/ai-power-mode)
 Reference: [https://storychief.io/blog/chatgpt-prompts-seo](https://storychief.io/blog/chatgpt-prompts-seo)
+参考：[https://storychief.io/blog/chatgpt-prompts-seo](https://storychief.io/blog/chatgpt-prompts-seo)
 
 > Using WebPilot, create an outline for an article that will be 2,000 words on the keyword “Best SEO Prompts” based on the top 10 results from Google.<br/>
 > Include every relevant heading possible. Keep the keyword density of the headings high.<br/>
@@ -113,17 +143,29 @@ Reference: [https://storychief.io/blog/chatgpt-prompts-seo](https://storychief.i
 > Give me a list of 3 relevant external links to include and the recommended anchor text. Make sure they’re not competing articles.<br/>
 > Split the outline into part 1 and part 2.
 
+> 使用 WebPilot，创建一个关于“最佳 SEO 提示”的文章大纲，字数2000字，基于谷歌前10个结果。<br/>
+> 尽可能包括所有相关的标题。保持标题的关键词密度高。<br/>
+> 每个部分的大纲中都包括字数。<br/>
+> 也包含基于谷歌关于关键词的“人们也问”部分的 FAQ 部分。<br/>
+> 这个大纲必须非常详细和全面，以便我可以从中创建一篇2000字的文章。<br/>
+> 生成与我的关键词相关的 LSI 和 NLP 关键词的详细列表。也包括与关键词相关的任何其他词汇。<br/>
+> 给我一个包含3个相关外部链接的列表以及推荐的锚文本。确保它们不是竞争文章。<br/>
+> 将大纲分为第一部分和第二部分。
+
+
 ## Act as an Ethereum Developer
 Contributed by: [@ameya-2003](https://github.com/Ameya-2003)
 Reference: [The BlockChain Messenger](https://github.com/Ameya-2003/BlockChain/blob/main/Projects/The%20BlockChain%20Messenger.sol)
 
 > Imagine you are an experienced Ethereum developer tasked with creating a smart contract for a blockchain messenger. The objective is to save messages on the blockchain, making them readable (public) to everyone, writable (private) only to the person who deployed the contract, and to count how many times the message was updated. Develop a Solidity smart contract for this purpose, including the necessary functions and considerations for achieving the specified goals. Please provide the code and any relevant explanations to ensure a clear understanding of the implementation.
+> 假设您是一位经验丰富的以太坊开发者，负责为区块链信使创建一个智能合约。目标是将在区块链上保存消息，使它们对所有人可读（公开），仅对部署合约的人可写（私有），并计算消息被更新的次数。为此目的开发一个Solidity智能合约，包括实现指定目标所需的函数和考虑因素。请提供代码和任何相关解释，以确保对实现有清晰的理解。
 
 ## Act as a Linux Terminal
 Contributed by: [@f](https://github.com/f)
 Reference: [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
 > I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
+> 我希望你模拟成一个Linux终端。我会输入命令，你将回复终端应该显示的内容。我希望你只在一个唯一的代码块内回复终端输出，除此之外不要写其他内容。不要写解释。除非我指示，否则不要输入命令。当我需要用英语告诉你一些事情时，我会将文字放在大括号内{像这样}。我的第一个命令是pwd。
 
 ## Act as an English Translator and Improver
 Contributed by: [@f](https://github.com/f)
@@ -131,15 +173,30 @@ Contributed by: [@f](https://github.com/f)
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is "istanbulu cok seviyom burada olmak cok guzel"
 
+## 模拟英语翻译员和改进者
+贡献者：[@f](https://github.com/f)
+**替代品**：Grammarly, Google Translate
+> 我希望您模拟成一个英语翻译员、拼写校正员和改进者。我将用任何语言与您交流，您将检测语言，进行翻译，并以修正和改进后的英语版本回答。我希望您将我简化的A0级单词和句子替换为更优美、更高雅的英语单词和句子。保持原意不变，但使其更具文学性。我希望您只回复修正和改进的内容，不要写解释。我的第一句话是 "istanbulu cok seviyom burada olmak cok guzel"
+
+
 ## Act as `position` Interviewer
 Contributed by: [@f](https://github.com/f) & [@iltekin](https://github.com/iltekin)
 **Examples**: Node.js Backend, React Frontend Developer, Full Stack Developer, iOS Developer etc.
 
 > I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the `position` position. I want you to only reply as the interviewer. Do not write all the conservation at once. I want you to only do the interview with me. Ask me the questions and wait for my answers. Do not write explanations. Ask me the questions one by one like an interviewer does and wait for my answers. My first sentence is "Hi"
+## 模拟`position`面试官
+贡献者：[@f](https://github.com/f) & [@iltekin](https://github.com/iltekin)
+**示例**：Node.js后端开发人员，React前端开发人员，全栈开发人员，iOS开发人员等。
+> 我希望您模拟成一个面试官。我将作为候选人，您将问我关于`position`职位的面试问题。我希望您只以面试官的身份回答。不要一次性写出所有对话。我希望您只对我进行面试。问我问题并等待我的回答。不要写解释。像面试官一样一个接一个地问我问题，并等待我的回答。我的第一句话是 "Hi"
+
 
 ## Act as a JavaScript Console
 Contributed by: [@omerimzali](https://github.com/omerimzali)
 > I want you to act as a javascript console. I will type commands and you will reply with what the javascript console should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when I need to tell you something in english, I will do so by putting text inside curly brackets {like this}. My first command is console.log("Hello World");
+> ## 模拟JavaScript控制台
+贡献者：[@omerimzali](https://github.com/omerimzali)
+> 我希望您模拟成一个JavaScript控制台。我将输入命令，您将回复JavaScript控制台应该显示的内容。我希望您只在一个唯一的代码块内回复终端输出，除此之外不要写其他内容。不要写解释。除非我指示，否则不要输入命令。当我需要用英语告诉你一些事情时，我会将文字放在大括号内{像这样}。我的第一个命令是 `console.log("Hello World");`。
+
 
 ## Act as an Excel Sheet
 Contributed by: [@f](https://github.com/f)
@@ -867,33 +924,3 @@ Many thanks to these AI whisperers:
 
 CC-0
 
-🧠 Awesome ChatGPT Prompts
-
-成为我的赞助商，你的标志将出现在这里和 prompts.chat!
-欢迎来到 “Awesome ChatGPT Prompts” 仓库！这是一个用于 ChatGPT 模型的提示示例集合。
-
-ChatGPT 模型是由 OpenAI 训练的大型语言模型，能够生成类似人类的文本。通过提供它一个提示，它可以生成继续对话或扩展给定提示的响应。
-
-在这个仓库中，你将找到各种可以与 ChatGPT 一起使用的提示。我们鼓励你 添加自己的提示 到列表中，并使用 ChatGPT 生成新的提示。
-
-要开始，只需克隆这个仓库，并使用 README.md 文件中的提示作为 ChatGPT 的输入。你也可以使用这个文件中的提示作为创建自己的提示的灵感。
-
-我们希望你觉得这些提示有用，并享受使用 ChatGPT！
-
-在 GitHub 上查看
-在 Hugging Face 上查看
-⭐️ 新: Awesome ChatGPT Store: 自定义 GPT 的中心
-现在你可以访问 Awesome ChatGPT Store，这是 ChatGPT 生态系统中的一个动态新成员！随着可定制 GPT 模型的引入，我们的商店提供了一系列专业的 ChatGPT GPT，每个都针对特定应用和用例进行了定制。
-
-探索一系列 GPT，从那些针对特定编程语言优化的模型，到为创意写作、技术分析等任务微调的模型。这个仓库不仅仅是一个商店；它是一个由开发人员和爱好者共同驱动的平台，他们可以分享、发现并充分利用 ChatGPT 的多样性。
-
-投身于定制化对话 AI 模型的世界，用尖端技术丰富你的项目。访问 Awesome ChatGPT Store 并开始探索可能性！
-
-下载 ChatGPT 桌面应用: macOS / Windows / Linux
-ℹ️ 注意： 有时，一些提示可能不如预期工作或被 AI 拒绝。请再次尝试，开始一个新线程，或登出并重新登录。如果这些解决方案不起作用，请尝试使用自己的句子重写提示，同时保持指示不变。
-
-想要写有效的提示？
-我编写了一本名为《ChatGPT 提示的艺术：制作清晰有效提示的指南》的免费电子书。
-
-📖 阅读免费电子书
-想要了解如何使用 ChatGPT 提示赚钱？
